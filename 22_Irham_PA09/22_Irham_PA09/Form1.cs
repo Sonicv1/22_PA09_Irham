@@ -48,6 +48,13 @@ namespace _22_Irham_PA09
 
                     txtBx_Value.Text = convertedvalue.ToString();
                 }
+                else if (btn_ring.Checked == true)
+                {
+                    AmountEntered = double.Parse(txtBx_Amount.Text);
+                    convertedvalue = AmountEntered * 3.01;
+
+                    txtBx_Value.Text = convertedvalue.ToString();
+                }
             }
             catch (Exception)
             {

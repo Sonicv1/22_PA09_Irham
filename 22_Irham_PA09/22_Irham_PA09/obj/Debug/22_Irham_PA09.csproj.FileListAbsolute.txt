@@ -8,3 +8,13 @@ C:\Users\ssv1\source\repos\22_Irham_PA09\22_Irham_PA09\obj\Debug\22_Irham_PA09.c
 C:\Users\ssv1\source\repos\22_Irham_PA09\22_Irham_PA09\obj\Debug\22_Irham_PA09.csproj.CoreCompileInputs.cache
 C:\Users\ssv1\source\repos\22_Irham_PA09\22_Irham_PA09\obj\Debug\22_Irham_PA09.exe
 C:\Users\ssv1\source\repos\22_Irham_PA09\22_Irham_PA09\obj\Debug\22_Irham_PA09.pdb
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\bin\Debug\22_Irham_PA09.exe.config
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\bin\Debug\22_Irham_PA09.exe
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\bin\Debug\22_Irham_PA09.pdb
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\obj\Debug\22_Irham_PA09.csprojAssemblyReference.cache
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\obj\Debug\_22_Irham_PA09.Form1.resources
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\obj\Debug\_22_Irham_PA09.Properties.Resources.resources
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\obj\Debug\22_Irham_PA09.csproj.GenerateResource.cache
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\obj\Debug\22_Irham_PA09.csproj.CoreCompileInputs.cache
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\obj\Debug\22_Irham_PA09.exe
+C:\Users\fuzio\Documents\GitHub\22_PA09_Irham\22_Irham_PA09\22_Irham_PA09\obj\Debug\22_Irham_PA09.pdb
