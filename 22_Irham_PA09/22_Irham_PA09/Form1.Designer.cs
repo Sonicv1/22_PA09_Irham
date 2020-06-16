@@ -37,6 +37,7 @@
             this.btn_Convert = new System.Windows.Forms.Button();
             this.btn_Clear = new System.Windows.Forms.Button();
             this.btn_USD = new System.Windows.Forms.RadioButton();
+            this.btn_ring = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // lbl_Amount
@@ -86,7 +87,7 @@
             // btn_JPYen
             // 
             this.btn_JPYen.AutoSize = true;
-            this.btn_JPYen.Location = new System.Drawing.Point(257, 228);
+            this.btn_JPYen.Location = new System.Drawing.Point(257, 203);
             this.btn_JPYen.Name = "btn_JPYen";
             this.btn_JPYen.Size = new System.Drawing.Size(93, 17);
             this.btn_JPYen.TabIndex = 6;
@@ -125,11 +126,23 @@
             this.btn_USD.Text = "US Dollars";
             this.btn_USD.UseVisualStyleBackColor = true;
             // 
+            // btn_ring
+            // 
+            this.btn_ring.AutoSize = true;
+            this.btn_ring.Location = new System.Drawing.Point(257, 226);
+            this.btn_ring.Name = "btn_ring";
+            this.btn_ring.Size = new System.Drawing.Size(108, 17);
+            this.btn_ring.TabIndex = 10;
+            this.btn_ring.TabStop = true;
+            this.btn_ring.Text = "Malaysian Ringgit";
+            this.btn_ring.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(629, 371);
+            this.Controls.Add(this.btn_ring);
             this.Controls.Add(this.btn_USD);
             this.Controls.Add(this.btn_Clear);
             this.Controls.Add(this.btn_Convert);
@@ -157,6 +170,7 @@
         private System.Windows.Forms.Button btn_Convert;
         private System.Windows.Forms.Button btn_Clear;
         private System.Windows.Forms.RadioButton btn_USD;
+        private System.Windows.Forms.RadioButton btn_ring;
     }
 }
 
